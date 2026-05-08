@@ -1,0 +1,20 @@
+[project]
+name = "case-method-nlp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bertopic>=0.17.4",
+    "gensim>=4.4.0",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "nbformat>=4.2.0",
+    "pandas>=3.0.2",
+    "pymupdf>=1.27.2.3",
+    "sastrawi>=1.0.1",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.4.1",
+    "wordcloud>=1.9.6",
+]

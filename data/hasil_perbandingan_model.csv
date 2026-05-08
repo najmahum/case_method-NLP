@@ -1,0 +1,6 @@
+Model,Input,Skor_LogLikelihood
+LDA,BoW,-74196.30913765148
+LDA,TF-IDF,-4804.92944041784
+LDA,N-Grams,-102049.12284514456
+BERTopic,FastText,N/A (Clustering)
+BERTopic,IndoBERT,N/A (Clustering)
